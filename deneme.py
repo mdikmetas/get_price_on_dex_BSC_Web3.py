@@ -13,7 +13,7 @@ module  = {
     "AMM": {
         "Pancake": {
             "Factory": "0xA9473608514457b4bF083f9045fA63ae5810A03E",
-            "Router": "0xd7bbFc48c10dc43619E2C187451dDB55e1ECD66b",
+            "Router": "0xE915D2393a08a00c5A463053edD31bAe2199b9e7",
         },
         "Twindex": {
             "stables": {
